@@ -1,0 +1,21 @@
+{
+  "name": "app-name",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "bootable": "0.2.x",
+    "bootable-environment": "0.2.x",
+    "connect-powered-by": "0.1.x",
+    "consolidate": "^0.10.0",
+    "ejs": "0.8.x",
+    "express": "3.x.x",
+    "locomotive": "0.4.x",
+    "locomotive-mongoose": "^0.1.0",
+    "swig": "^1.4.2",
+    "winston": "^0.8.3",
+    "winston-papertrail": "^0.1.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
